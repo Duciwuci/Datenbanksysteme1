@@ -1,0 +1,439 @@
+
+SQL*Plus: Release 10.2.0.1.0 - Production on Mi Nov 22 14:19:31 2017
+
+Copyright (c) 1982, 2005, Oracle.  All rights reserved.
+
+
+ERROR:
+ORA-12560: TNS: Fehler bei Protokolladapter
+
+
+ERROR:
+ORA-12560: TNS: Fehler bei Protokolladapter
+
+
+SP2-0306: Ungültige Option.
+Verwendung: CONN[ECT] [Anmeldung] [AS {SYSDBA|SYSOPER}]
+wobei <logon>  ::= <username>[/<password>][@<connect_identifier>] | /
+SP2-0306: Ungültige Option.
+Verwendung: CONN[ECT] [Anmeldung] [AS {SYSDBA|SYSOPER}]
+wobei <logon>  ::= <username>[/<password>][@<connect_identifier>] | /
+SP2-0306: Ungültige Option.
+Verwendung: CONN[ECT] [Anmeldung] [AS {SYSDBA|SYSOPER}]
+wobei <logon>  ::= <username>[/<password>][@<connect_identifier>] | /
+SP2-0734: Unbekannter Befehl ab "<logon>  :..." - restliche Zeile ignoriert.
+SP2-0640: Nicht angemeldet
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+SP2-0640: Nicht angemeldet
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+SP2-0640: Nicht angemeldet
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+SP2-0640: Nicht angemeldet
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+ERROR:
+ORA-12514: TNS: Listener kann in Connect-Deskriptor angegebenen Service aktuell nicht auflösen
+
+
+SP2-0640: Nicht angemeldet
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+SP2-0734: Unbekannter Befehl ab ");Connect ..." - restliche Zeile ignoriert.
+SP2-0640: Nicht angemeldet
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+SP2-0640: Nicht angemeldet
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+Connect durchgeführt.
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+SP2-0042: Unbekannter Befehl ")" - restliche Zeile wurde ignoriert.
+SP2-0734: Unbekannter Befehl ab ");Connect ..." - restliche Zeile ignoriert.
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+)
+*
+FEHLER in Zeile 4:
+ORA-00904: : ungültiger Bezeichner
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+
+Tabelle wurde erstellt.
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 2:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
+CREATE TABLE kauftvonVerkäufer (
+             *
+FEHLER in Zeile 1:
+ORA-00955: Es gibt bereits ein Objekt mit diesem Namen
+
+
+NameVerkäufer VARCHAR(10) FOREIGN KEY,
+                          *
+FEHLER in Zeile 3:
+ORA-00907: Rechte Klammer fehlt
+
+
